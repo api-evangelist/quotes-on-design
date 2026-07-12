@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://quotesondesign.com/api/
 common:
+  - type: DomainSecurity
+    url: security/quotes-on-design-domain-security.yml
   - type: Website
     url: https://quotesondesign.com/api/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://quotesondesign.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
