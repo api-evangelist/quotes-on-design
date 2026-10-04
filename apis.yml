@@ -39,7 +39,6 @@ apis:
   - name: Quotes on Design
     description: "Inspirational Quotes"
     humanURL: https://quotesondesign.com/api/
-    baseURL: https://quotesondesign.com/api/
     tags:
       - Personality
     properties:
